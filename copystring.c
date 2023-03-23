@@ -19,3 +19,7 @@ int main()
  
     return 0;
 }
+output:
+Enter any string: dhanush
+original string s1='dhanush'
+copied string   s2='dhanush'
