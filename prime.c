@@ -20,4 +20,6 @@ else
 printf("the given number is not a prime number, ");
 }
 }
-
+output:
+enter the number:97
+the given number is prime number
