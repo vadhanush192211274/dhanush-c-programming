@@ -21,3 +21,6 @@ int oddeven(int x)
 else
     printf("the given number is odd");
 }
+output:
+enter the number:302
+the given number is even
