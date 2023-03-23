@@ -16,3 +16,6 @@ int g;
 g=x*x;
 return g;
 }
+output:
+enter the number to be squared:4
+square=16
