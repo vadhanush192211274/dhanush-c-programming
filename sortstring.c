@@ -19,6 +19,6 @@ int main ()
 		}
 	}
 
-	printf(“The sorted string is : %s”, string);
+	printf("The sorted string is : %s”, string);
 	return 0;
 }
