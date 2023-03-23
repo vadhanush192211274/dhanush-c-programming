@@ -17,5 +17,7 @@
     printf("the given number is not armstrong number");    
     return 0;  
     }   
-
+output:
+enter the number=153
+armstrong  number 
 
