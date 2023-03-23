@@ -17,3 +17,7 @@ int main() {
     printf("Frequency of %c = %d", ch, count);
     return 0;
 }
+output:
+Enter a string: dhanushdhoni
+Enter a character to find its frequency: dhoni
+Frequency of d = 2
