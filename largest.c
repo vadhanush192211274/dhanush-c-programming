@@ -11,3 +11,5 @@
         printf("Largest element present in given array: %d\n", max);    
         return 0;    
     }    
+output:
+Largest element present in given array: 75
