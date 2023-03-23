@@ -28,3 +28,8 @@ int main()
  
     return 0;
 }
+output:
+Enter  the string : dhansuh777!@#$%^&*
+Alphabets = 7
+Digits = 3
+Special characters = 8
